@@ -20,7 +20,7 @@ For this workshop, we will be using [VirtualBox](https://www.virtualbox.org/) to
 ```
 machdep.cpu.features: FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH DS ACPI MMX FXSR SSE SSE2 SS HTT TM PBE SSE3 PCLMULQDQ DTES64 MON DSCPL VMX SMX EST TM2 SSSE3 FMA CX16 TPR PDCM SSE4.1 SSE4.2 x2APIC MOVBE POPCNT AES PCID XSAVE OSXSAVE SEGLIM64 TSCTMR AVX1.0 RDRAND F16C
 ```
-4. If it is empty, you do not have VT-x enabled on your machine
+4. If it is empty, your machine does not support VT-x
 
 ### Linux
 If you are already using a linux distribution, you can just use your current machine for this workshop.
