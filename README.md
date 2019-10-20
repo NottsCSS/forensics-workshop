@@ -27,9 +27,8 @@ If you are already using a linux distribution, you can just use your current mac
 
 ## Installation
 
-### Windows
 
-First, you will have to install VirtualBox. You can download it [here](https://download.virtualbox.org/virtualbox/6.0.14/VirtualBox-6.0.14-133895-Win.exe).
+First, you will have to install VirtualBox. You can download it [here](https://www.virtualbox.org/wiki/Downloads).
 
 
 Once you have VirtualBox installed, you can proceed to download [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)(recommended) or [Kali Linux Light](https://www.kali.org/downloads/). 
