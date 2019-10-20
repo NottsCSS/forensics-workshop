@@ -1,4 +1,4 @@
-# Forensics workshop by CSS 25th October 2019
+# Forensics workshop by CSS 23rd October 2019
 
 ## Purpose of this workshop
 We all can agree that computer science is such a big and overwhelming field that it can sometimes be hard to find a field that you like to pursue your career in. The goal of this workshop is to expose students to something new that they usually would not come across during their years studying in Nottingham. This workshop aims to get your feet wet with some basic digital forensics and linux skills.
