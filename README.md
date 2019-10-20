@@ -34,7 +34,9 @@ First, you will have to install VirtualBox. You can download it [here](https://w
 Once you have VirtualBox installed, you can proceed to download [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)(recommended) or [Kali Linux Light](https://www.kali.org/downloads/). 
 
 ### Kali Linux
-Make sure __choose__ from the **VirtualBox Images section** instead of VMware or Hyper-V.
+Make sure to __choose__ from the **VirtualBox Images section** instead of VMware or Hyper-V.
+
+![image](https://user-images.githubusercontent.com/30463224/67155720-f24e7880-f346-11e9-903d-1fd64737bf33.png)
 
 After you have finish downloading, proceed to open VirtualBox.
 
