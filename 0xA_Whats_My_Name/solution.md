@@ -1,1 +1,1 @@
-Use wireshark to find DNS packets
+Use `wireshark` to find DNS packets

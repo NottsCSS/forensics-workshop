@@ -1,2 +1,2 @@
-Use file to check what kind of file is this
-Change the file extension and open again
+1. Use `file` to find out what kind of file is this
+2. Change the file extension and open again

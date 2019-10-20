@@ -1,1 +1,1 @@
-Use the utility unzip to unpack the archive
+Use the command `unzip ` to unpack the archive
