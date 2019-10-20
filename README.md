@@ -27,3 +27,38 @@ If you are already using a linux distribution, you can just use your current mac
 
 ## Installation
 
+### Windows
+
+First, you will have to install VirtualBox. You can download it [here](https://download.virtualbox.org/virtualbox/6.0.14/VirtualBox-6.0.14-133895-Win.exe).
+
+
+Once you have VirtualBox installed, you can proceed to download [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)(recommended) or [Kali Linux Light](https://www.kali.org/downloads/). 
+
+### Kali Linux
+Make sure __choose__ from the **VirtualBox Images section** instead of VMware or Hyper-V.
+
+After you have finish downloading, proceed to open VirtualBox.
+
+![image](https://user-images.githubusercontent.com/30463224/67142852-f1aad900-f297-11e9-8a20-e7fcfca89fdc.png)
+
+Once you see the main menu, you can go ahead and import the appliance we just downloaded, by clicking on the import button.
+
+![image](https://user-images.githubusercontent.com/30463224/67142949-ec9a5980-f298-11e9-8de2-2a5b0f5f6af4.png)
+
+And once you have located the file you've downloaded previously, click on **next** and then **import**. Then after successfully importing, you should see the device ready to be started at the main menu.
+
+![image](https://user-images.githubusercontent.com/30463224/67143074-05efd580-f29a-11e9-89b4-c0701c846324.png)
+
+
+### Kali Linux Light
+After you have finish downloading, proceed to open VirtualBox.
+
+![image](https://user-images.githubusercontent.com/30463224/67142852-f1aad900-f297-11e9-8a20-e7fcfca89fdc.png)
+
+Once you are at the main menu, click on new and name your device as Kali Linux.
+
+![image](https://user-images.githubusercontent.com/30463224/67143348-2e2d0380-f29d-11e9-9a07-aca914e3ea80.png)
+
+Continue with the installer interface with the default values, and you should see your machine ready to be started in the main menu.
+
+
