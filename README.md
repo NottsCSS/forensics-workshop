@@ -20,18 +20,15 @@ For this workshop, we will be using [VirtualBox](https://www.virtualbox.org/) to
 ```
 machdep.cpu.features: FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH DS ACPI MMX FXSR SSE SSE2 SS HTT TM PBE SSE3 PCLMULQDQ DTES64 MON DSCPL VMX SMX EST TM2 SSSE3 FMA CX16 TPR PDCM SSE4.1 SSE4.2 x2APIC MOVBE POPCNT AES PCID XSAVE OSXSAVE SEGLIM64 TSCTMR AVX1.0 RDRAND F16C
 ```
-4. If it is empty, your machine does not support VT-x
+4. If the output is empty, your machine does not support VT-x
 
 ### Linux
 If you are already using a linux distribution, you can just use your current machine for this workshop.
 
 ## Installation
-
-
 First, you will have to install VirtualBox. You can download it [here](https://www.virtualbox.org/wiki/Downloads).
 
-
-Once you have VirtualBox installed, you can proceed to download [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)(recommended) or [Kali Linux Light](https://www.kali.org/downloads/). 
+Once you have VirtualBox installed, you can proceed to download [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)(recommended) or [Kali Linux Light](https://www.kali.org/downloads/).
 
 ### Kali Linux
 Make sure to __choose__ from the **VirtualBox Images section** instead of VMware or Hyper-V.
@@ -61,5 +58,3 @@ Once you are at the main menu, click on new and name your device as Kali Linux.
 ![image](https://user-images.githubusercontent.com/30463224/67143348-2e2d0380-f29d-11e9-9a07-aca914e3ea80.png)
 
 Continue with the installer interface with the default values, and you should see your machine ready to be started in the main menu.
-
-
