@@ -28,7 +28,7 @@ If you are already using a linux distribution, you can just use your current mac
 ## Installation
 First, you will have to install VirtualBox. You can download it [here](https://www.virtualbox.org/wiki/Downloads).
 
-Once you have VirtualBox installed, you can proceed to download [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)(recommended) or [Kali Linux Light](https://www.kali.org/downloads/).
+Once you have VirtualBox installed, you can proceed to download the pre-made VirtualBox image for [Kali Linux](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/) (recommended) or manually install [Kali Linux Light](https://www.kali.org/downloads/).
 
 ### Kali Linux
 Make sure to __choose__ from the **VirtualBox Images section** instead of VMware or Hyper-V.
