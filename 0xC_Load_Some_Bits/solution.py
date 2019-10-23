@@ -1,5 +1,9 @@
 import sys
 
+if len(sys.argv) != 2:
+    print("Usage: python3 solution.py pico2018-special-logo.bmp")
+    exit()
+
 with open(sys.argv[1], 'rb') as f:
     data = f.read()
 
